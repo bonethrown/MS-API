@@ -16,5 +16,10 @@ The links below lead to the documentation for hackable free Microsoft API's. We 
 
 * [Sentiment Analysis (dead)](http://azure.microsoft.com/en-us/marketplace/partners/aml-labs/sentiment-analysis-ml/)
 * [XML transformer](https://azure.microsoft.com/en-in/documentation/articles/app-service-logic-transform-xml-documents/)
-* [Keyword Extraction](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-apps-text-analytics/)
+* [Text Analytics](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-apps-text-analytics/)
+* [Anomoly Detection](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-apps-anomaly-detection/)
+* [ML recomendation](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-recommendation-api-documentation/)
+* [Frequently bought together basket analysis](http://azure.microsoft.com/en-us/marketplace/partners/amla/mba/)
 * 
+
+
